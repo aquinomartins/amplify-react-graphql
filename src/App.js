@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Jesus Cristo_O Caminho, A Verdade e A Vida</h1>
         <h2>Maria Santíssima</h2>
-        <h3>São José</h3>
+        <h3>São José, valei-me!</h3>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
