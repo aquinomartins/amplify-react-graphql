@@ -8,7 +8,7 @@ function App() {
     <iframe
 	src="https://oproprioaquino-rajkumaralma-graphic-novel.hf.space"
 	frameborder="0"
-	width="1000	"
+	width="1100	"
 	height="530"
 ></iframe>
 
