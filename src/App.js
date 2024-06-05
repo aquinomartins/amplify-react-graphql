@@ -5,6 +5,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+
+	  <img src="prancheta001.png">
+	  <img src="prancheta002.png">
+	  <img src="prancheta003.png">
+	  <img src="prancheta004.png">
+	  <img src="prancheta005.png">
+	  <img src="prancheta006.png">
+	  
     <iframe
 	src="https://oproprioaquino-rajkumaralma-graphic-novel.hf.space"
 	frameborder="0"
