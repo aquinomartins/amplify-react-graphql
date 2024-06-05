@@ -6,12 +6,12 @@ function App() {
     <div className="App">
       <header className="App-header">
 
-	  <img src="prancheta1.png">
-	  <img src="prancheta2.png">
-	  <img src="prancheta3.png">
-	  <img src="prancheta4.png">
-	  <img src="prancheta5.png">
-	  <img src="prancheta6.png">
+	  <img src="prancheta001.png">
+	  <img src="prancheta002.png">
+	  <img src="prancheta003.png">
+	  <img src="prancheta004.png">
+	  <img src="prancheta005.png">
+	  <img src="prancheta006.png">
 	  
     <iframe
 	src="https://oproprioaquino-rajkumaralma-graphic-novel.hf.space"
