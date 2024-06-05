@@ -6,11 +6,11 @@ function App() {
     <div className="App">
       <header className="App-header">
     <iframe
-	src="https://oproprioaquino-agricultura-inteligente.hf.space"
+	src="https://oproprioaquino-ai-fabrica-de-quadrinhos.hf.space"
 	frameborder="0"
-	width="850"
-	height="450"
+allowfullscreen
 ></iframe>
+
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Jesus Cristo_O Caminho, A Verdade e A Vida</h1>
         <h2>Maria Santíssima</h2>
