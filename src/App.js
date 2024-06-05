@@ -6,11 +6,12 @@ function App() {
     <div className="App">
       <header className="App-header">
     <iframe
-	src="https://oproprioaquino-ai-fabrica-de-quadrinhos.hf.space"
+	src="https://oproprioaquino-rajkumaralma-graphic-novel.hf.space"
 	frameborder="0"
-	width="1000"
-	height="530"
+	width="850"
+	height="450"
 ></iframe>
+
 
 
         <img src={logo} className="App-logo" alt="logo" />
