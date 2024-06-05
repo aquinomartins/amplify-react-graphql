@@ -8,8 +8,10 @@ function App() {
     <iframe
 	src="https://oproprioaquino-ai-fabrica-de-quadrinhos.hf.space"
 	frameborder="0"
-allowfullscreen
+	width="1000"
+	height="530"
 ></iframe>
+
 
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Jesus Cristo_O Caminho, A Verdade e A Vida</h1>
